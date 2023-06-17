@@ -1,4 +1,4 @@
-### Hi there
+### Hi there!
 
 I'm an Engineering student at [Poli - USP](https://www.poli.usp.br/) currently doing a Double Degree for my Master's in Computer Engineering at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt/pt/)!
 
