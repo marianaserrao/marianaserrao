@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm an Engineering student at [Poli - USP](https://www.poli.usp.br/) currently doing a Double Degree for my Master's in Computer Engineering at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt/pt/)!
+I'm an Engineering student at [Poli - USP](https://www.poli.usp.br/) currently on a Double Degree program for my Master's in Computer Engineering at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt/pt/)!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-serrao/) 
 [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mserraoguilherme@gmail.com) 
